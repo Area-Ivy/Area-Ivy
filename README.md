@@ -30,3 +30,6 @@
 </div>
 
 ### 🥰 *Take a look at my repositories and let's get in touch!*
+
+![Image_1746765906773](https://github.com/user-attachments/assets/57717754-b39c-4207-b85b-e876162def21)
+
