@@ -31,5 +31,6 @@
 
 ### 🥰 *Take a look at my repositories and let's get in touch!*
 
-![Image_1746765906773](https://github.com/user-attachments/assets/57717754-b39c-4207-b85b-e876162def21)
+![Image_1471540706017348](https://github.com/user-attachments/assets/86fa0167-4eb4-4ccc-b4d3-1eda77a2a363)
+
 
