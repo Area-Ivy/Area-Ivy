@@ -20,5 +20,3 @@
   <img src='https://github-readme-stats.vercel.app/api?username=Area-Ivy&show_icons=true&count_private=true' height='190'/>
   <img src='https://github-readme-stats.vercel.app/api/top-langs/?username=Area-Ivy&layout=compact' height='190'/>
 </div>
-
-### 🥰 *Take a look at my repositories and let's get in touch!*
