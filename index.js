@@ -13,9 +13,8 @@ function generateProgressBar() {
 
 const readme = `\
 <h1>
-  <img src="https://emojis.slackmojis.com/emojis/images/1660853767/60881/meow_attention.gif?1660853767" height="30"/>
-  Hi there my No.
-  <img src="https://profile-counter.glitch.me/Area-Ivy/count.svg" height="30"/>
+  👋 Hi there my No.
+  <img src='https://profile-counter.glitch.me/Area-Ivy/count.svg'/>
   visitor!
 </h1>
 
@@ -24,24 +23,18 @@ const readme = `\
 >
 > ⏰ Updated on ${new Date().toUTCString()}
 
-### 👨‍💻 *[About Me](https://Area-Ivy.github.io)*
+### 👨‍💻 About Me
 
-* 🚀 I'm an undergraduate student of School of Software Engineering, [Tongji University](https://www.tongji.edu.cn).
+* 💻 Full-stack development enthusiast passionate about solving real-world problems through elegant engineering practices
+* 🛒 Backend Software Engineer Intern @ Douyin E-Commerce, ByteDance (ByteIntern Program)
+* 🎓 B.Eng. in Software Engineering @ School of Computer Science and Technology, Tongji University
+* 🔍 Thrives on technical challenges and collaborative problem-solving to create impactful solutions
+* 🌱 Continuously learning and growing, with endless curiosity about emerging technologies and best practices
 
-* 🌱 I’m currently learning software engineering and exploring new technologies.
-
-* 🔭 I love collaborating on interesting tech projects and connecting with like-minded individuals.
-
-* 📫 Email: Liushuyi1127@outlook.com
-
-### 📊 *[My GitHub](https://github.com/bunnyoii)*
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=bunnyoii&show_icons=true&count_private=true" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bunnyoii&layout=compact" height="160"/>
+<div align='center'>
+  <img src='https://github-readme-stats.vercel.app/api?username=Area-Ivy&show_icons=true&count_private=true' height='190'/>
+  <img src='https://github-readme-stats.vercel.app/api/top-langs/?username=Area-Ivy&layout=compact' height='190'/>
 </div>
-
-### 🥰 *Take a look at my repositories and let's get in touch!*\
 `
 
 console.log(readme)
