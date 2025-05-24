@@ -15,7 +15,7 @@ const readme = `\
 <h1>
   <img src="https://emojis.slackmojis.com/emojis/images/1660853767/60881/meow_attention.gif?1660853767" height="30"/>
   Hi there my No.
-  <img src="https://profile-counter.glitch.me/bunnyoii/count.svg" height="30"/>
+  <img src="https://profile-counter.glitch.me/Area-Ivy/count.svg" height="30"/>
   visitor!
 </h1>
 
@@ -24,7 +24,7 @@ const readme = `\
 >
 > ⏰ Updated on ${new Date().toUTCString()}
 
-### 👨‍💻 *[About Me](https://bunnyoii.github.io)*
+### 👨‍💻 *[About Me](https://Area-Ivy.github.io)*
 
 * 🚀 I'm an undergraduate student of School of Software Engineering, [Tongji University](https://www.tongji.edu.cn).
 
