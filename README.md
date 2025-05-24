@@ -10,7 +10,7 @@
 >
 > ⏰ Updated on Sat, 24 May 2025 01:10:35 GMT
 
-### 👨‍💻 *[About Me](https://bunnyoii.github.io)*
+### 👨‍💻 *[About Me](https://Area-Ivyi.github.io)*
 
 * 🚀 I'm an undergraduate student of School of Software Engineering, [Tongji University](https://www.tongji.edu.cn).
 
@@ -23,8 +23,8 @@
 ### 📊 *[My GitHub](https://github.com/bunnyoii)*
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=bunnyoii&show_icons=true&count_private=true" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bunnyoii&layout=compact" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Area-Ivy&show_icons=true&count_private=true" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Area-Ivy&layout=compact" height="160"/>
 </div>
 
 ### 🥰 *Take a look at my repositories and let's get in touch!*
