@@ -32,7 +32,7 @@ const readme = `\
 
 * 🔭 I love collaborating on interesting tech projects and connecting with like-minded individuals.
 
-* 📫 Email: Liushuyi1127@outlook.com
+* 📫 Email: chenyiming12500@gmail.com
 
 ### 📊 *[My GitHub](https://github.com/Area-Ivy)*
 
