@@ -20,6 +20,8 @@
 
 * 📫 Email: chenyiming12500@gmail.com
 
+* 💡 OnlyFans: not yet available 
+
 ### 📊 *[My GitHub](https://github.com/Area-Ivy)*
 
 <div align="left">
