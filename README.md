@@ -22,7 +22,7 @@
 
 ### 📊 *[My GitHub](https://github.com/Area-Ivy)*
 
-<div align="center">
+<div align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=Area-Ivy&show_icons=true&count_private=true" height="160"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Area-Ivy&layout=compact" height="160"/>
 </div>
