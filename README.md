@@ -35,4 +35,5 @@
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,vue,fastapi,spring,go,java,cpp,py,mysql,redis,linux,git)](https://skillicons.dev)
 
 ### 🥰 *Take a look at my repositories and let's get in touch!*
+![](https://stats.justsong.cn/api/leetcode?username=国家一级保护废物&cn=true)
 
