@@ -34,6 +34,4 @@
 
 ### 🥰 *Take a look at my repositories and let's get in touch!*
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=Area-Ivy)
-
 
