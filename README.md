@@ -29,12 +29,11 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Area-Ivy&layout=compact" height="160"/>
 </div>
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=Area-Ivy)
-
-![trophy](https://github-profile-trophy.vercel.app/?username=Area-Ivy)
-
 ### 📊 *Tech Stack*
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,vue,fastapi,spring,go,java,cpp,py,mysql,redis,linux,git)](https://skillicons.dev)
 
 ### 🥰 *Take a look at my repositories and let's get in touch!*
+
+![GitHub Streak](https://streak-stats.demolab.com/?user=Area-Ivy)
+
 
