@@ -35,5 +35,4 @@
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,vue,fastapi,spring,go,java,cpp,py,mysql,redis,linux,git)](https://skillicons.dev)
 
 ### 🥰 *Take a look at my repositories and let's get in touch!*
-![](https://stats.justsong.cn/api/leetcode?username=guo-jia-yi-ji-bao-hu-fei-wu-d&cn=true)
 
