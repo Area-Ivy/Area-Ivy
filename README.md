@@ -29,6 +29,9 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Area-Ivy&layout=compact" height="160"/>
 </div>
 
+### 📊 *Tech Stack*
+[![My Skills](https://skillicons.dev/icons?i=anaconda,cpp,fastapi,git,go,idea,java,js,linux,mysql,py,redis,spring,html,css,wasm,vue)](https://skillicons.dev)
+
 ### 🥰 *Take a look at my repositories and let's get in touch!*
 
 
