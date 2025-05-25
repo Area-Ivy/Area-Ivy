@@ -34,4 +34,4 @@
 
 ### 🥰 *Take a look at my repositories and let's get in touch!*
 
-
+![trophy](https://github-profile-trophy.vercel.app/?username=Area-Ivy)
