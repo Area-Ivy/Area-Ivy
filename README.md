@@ -29,6 +29,8 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Area-Ivy&layout=compact" height="160"/>
 </div>
 
+![GitHub Streak](https://streak-stats.demolab.com/?user=Area-Ivy)
+
 ![trophy](https://github-profile-trophy.vercel.app/?username=Area-Ivy)
 
 ### 📊 *Tech Stack*
