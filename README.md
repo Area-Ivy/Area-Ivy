@@ -10,7 +10,7 @@
 >
 > ⏰ Updated on Sat, 24 May 2025 01:10:35 GMT
 
-### 👨‍💻 *[About Me](https://Area-Ivy.github.io)*
+### 👨‍💻 *About Me*
 
 * 🚀 I, [Tongji University](https://www.tongji.edu.cn).
 
@@ -22,7 +22,7 @@
 
 * 💡 OnlyFans: not yet available.
 
-### 📊 *[My GitHub](https://github.com/Area-Ivy)*
+### 📊 *My GitHub*
 
 <div align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=Area-Ivy&show_icons=true&count_private=true" height="160"/>
