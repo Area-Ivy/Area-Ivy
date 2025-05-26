@@ -1,5 +1,4 @@
-![V_)RI8IMNM4 {GL06F{9T04](https://github.com/user-attachments/assets/bb20965a-4ad3-4aed-801d-37e4684642af)<h1>
-  <img src="https://emojis.slackmojis.com/emojis/images/1660853767/60881/meow_attention.gif?1660853767" height="30"/>
+ <img src="https://emojis.slackmojis.com/emojis/images/1660853767/60881/meow_attention.gif?1660853767" height="30"/>
   Hi there my No.
   <img src="https://profile-counter.glitch.me/Area-Ivy/count.svg" height="30"/>
   visitor!
