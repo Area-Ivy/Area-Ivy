@@ -1,4 +1,4 @@
-<h1>
+![V_)RI8IMNM4 {GL06F{9T04](https://github.com/user-attachments/assets/bb20965a-4ad3-4aed-801d-37e4684642af)<h1>
   <img src="https://emojis.slackmojis.com/emojis/images/1660853767/60881/meow_attention.gif?1660853767" height="30"/>
   Hi there my No.
   <img src="https://profile-counter.glitch.me/Area-Ivy/count.svg" height="30"/>
@@ -9,6 +9,8 @@
 > ⏳ Year Progress [ ▇▇▇▇▇▇▇▇▇▇▇▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁ ] 39.19 %
 >
 > ⏰ Updated on Sat, 24 May 2025 01:10:35 GMT
+
+![V_)RI8IMNM4 {GL06F{9T04](https://github.com/user-attachments/assets/5b7c3737-24fb-4b16-b692-a31f3877b495)
 
 ### 👨‍💻 *About Me*
 
