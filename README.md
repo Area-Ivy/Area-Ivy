@@ -1,9 +1,3 @@
- <img src="https://emojis.slackmojis.com/emojis/images/1660853767/60881/meow_attention.gif?1660853767" height="30"/>
-  Hi there my No.
-  <img src="https://profile-counter.glitch.me/Area-Ivy/count.svg" height="30"/>
-  visitor!
-</h1>
-
 > [!TIP]
 > ⏳ Year Progress [ ▇▇▇▇▇▇▇▇▇▇▇▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁ ] 39.19 %
 >
