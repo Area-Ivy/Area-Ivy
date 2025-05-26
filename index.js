@@ -24,7 +24,7 @@ const readme = `\
 >
 > ⏰ Updated on ${new Date().toUTCString()}
 
-### 👨‍💻 *[About Me](https://bunnyoii.github.io)*
+### 👨‍💻 *About Me*
 
 * 🚀 I'm an undergraduate student of School of Software Engineering, [Tongji University](https://www.tongji.edu.cn).
 
@@ -36,7 +36,7 @@ const readme = `\
 
 * 💡 OnlyFans: not yet available
 
-### 📊 *[My GitHub](https://github.com/Area-Ivy)*
+### 📊 *My GitHub*
 
 <div align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=Area-Ivy&show_icons=true&count_private=true" height="160"/>
