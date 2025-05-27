@@ -29,6 +29,20 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Area-Ivy&layout=compact" height="160"/>
 </div>
 
+### 🏆 *Unofficial Awards*
+
+- 🥇 **Ctrl+C, Ctrl+V Grandmaster**  
+  Honored for mastering the sacred art of "borrowing" code and actually making it work.
+
+- ⏰ **Deadline Alchemist**  
+  Expert in turning caffeine into last-minute code that *somehow* works.
+
+- 🧠 **Brain.F Champion**  
+  Occasionally writes code so confusing, even I don’t know how it works anymore.
+
+- 💾 **README Philosopher**  
+  Spends more time perfecting `README.md` than actually writing code.
+  
 ### 📊 *Tech Stack*
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,vue,fastapi,spring,go,java,cpp,py,mysql,redis,linux,git)](https://skillicons.dev)
 
