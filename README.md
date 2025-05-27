@@ -33,7 +33,8 @@
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,vue,fastapi,spring,go,java,cpp,py,mysql,redis,linux,git)](https://skillicons.dev)
 
 ### 🥰 *Feel free to check out my repositories and give feedback or ideas!*
-![IMG_20250525_220449](https://github.com/user-attachments/assets/232d7caa-49af-4b98-98c8-b856afd47737)
+![Camera_XHS_1748240736497](https://github.com/user-attachments/assets/300ae978-eba8-4699-8386-6739fb679129)
+
 
 
 
