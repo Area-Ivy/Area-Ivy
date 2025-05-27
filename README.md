@@ -6,18 +6,21 @@
 </h1>
 
 > [!TIP]
-> ⏳ Year Progress [ ▇▇▇▇▇▇▇▇▇▇▇▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁ ] 39.19 %
+> ⏳ Year Progress [ ▇▇▇▇▇▇▇▇▇▇▇▇▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁ ] 40.01 %
 >
-> ⏰ Updated on Sat, 24 May 2025 01:10:35 GMT
-
+> ⏰ Updated on Tue, 27 May 2025 01:05:34 GMT
 
 ### 👨‍💻 *About Me*
 
-* 🚀 I, [Tongji University](https://www.tongji.edu.cn).
-* 🌱 I.
-* 🔭 I.
+* 🚀 I'm an undergraduate student of School of Software Engineering, [Tongji University](https://www.tongji.edu.cn).
+
+* 🌱 I’m currently learning software engineering and exploring new technologies.
+
+* 🔭 I love collaborating on interesting tech projects and connecting with like-minded individuals.
+
 * 📫 Email: chenyiming12500@gmail.com
-* 💡 OnlyFans: not yet available.
+
+* 💡 OnlyFans: not yet available
 
 ### 📊 *My GitHub*
 
@@ -26,7 +29,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Area-Ivy&layout=compact" height="160"/>
 </div>
 
-### 🔧 *Tech Stack*
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,java,cpp,py,vue,fastapi,spring,mysql,redis,linux,git)](https://skillicons.dev)
+### 📊 *Tech Stack*
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,vue,fastapi,spring,go,java,cpp,py,mysql,redis,linux,git)](https://skillicons.dev)
 
 ### 🥰 *Take a look at my repositories and let's get in touch!*
