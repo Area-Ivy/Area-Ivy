@@ -14,9 +14,9 @@
 
 * 🚀 I'm an undergraduate student of School of Software Engineering, [Tongji University](https://www.tongji.edu.cn).
   
-* 🌱 I’m currently learning software engineering and exploring new technologies.
+* 🌱 Currently exploring full-stack development, algorithms, and open-source contributions.
   
-* 🔭 I love collaborating on interesting tech projects and connecting with like-minded individuals.
+* 🔭 Always eager to learn new technologies and take on challenging projects.
   
 * 📫 Email: chenyiming12500@gmail.com
   
