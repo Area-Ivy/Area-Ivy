@@ -27,9 +27,13 @@ const readme = `\
 ### 👨‍💻 *About Me*
 
 * 🚀 I'm an undergraduate student of School of Software Engineering, [Tongji University](https://www.tongji.edu.cn).
+
 * 🌱 I’m currently learning software engineering and exploring new technologies.
+
 * 🔭 I love collaborating on interesting tech projects and connecting with like-minded individuals.
+
 * 📫 Email: chenyiming12500@gmail.com
+
 * 💡 OnlyFans: not yet available
 
 ### 📊 *My GitHub*
