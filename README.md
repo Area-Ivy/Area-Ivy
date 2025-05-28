@@ -6,9 +6,9 @@
 </h1>
 
 > [!TIP]
-> ⏳ Year Progress [ ▇▇▇▇▇▇▇▇▇▇▇▇▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁ ] 40.01 %
+> ⏳ Year Progress [ ▇▇▇▇▇▇▇▇▇▇▇▇▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁ ] 40.29 %
 >
-> ⏰ Updated on Tue, 27 May 2025 01:05:34 GMT
+> ⏰ Updated on Wed, 28 May 2025 01:06:50 GMT
 
 ### 👨‍💻 *About Me*
 
@@ -28,13 +28,8 @@
   <img src="https://github-readme-stats.vercel.app/api?username=Area-Ivy&show_icons=true&count_private=true" height="160"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Area-Ivy&layout=compact" height="160"/>
 </div>
-  
+
 ### 📊 *Tech Stack*
-[![My Skills](https://skillicons.dev/icons?i=vue,fastapi,spring,cpp,py,mysql,redis,linux,git)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,vue,fastapi,spring,go,java,cpp,py,mysql,redis,linux,git)](https://skillicons.dev)
 
-### 🥰 *Feel free to check out my repositories and give feedback or ideas!*
-
-
-
-
-
+### 🥰 *Take a look at my repositories and let's get in touch!*
