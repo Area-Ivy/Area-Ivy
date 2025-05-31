@@ -4,7 +4,6 @@
   <img src="https://profile-counter.glitch.me/Area-Ivy/count.svg" height="30"/>
   visitor!
 </h1>
-![I05(X F$3 R%(L2(N HZP)E](https://github.com/user-attachments/assets/5a958475-a039-4652-9db6-c80e90977fe3)
 
 > [!TIP]
 > ⏳ Year Progress [ ▇▇▇▇▇▇▇▇▇▇▇▇▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁ ] 41.11 %
