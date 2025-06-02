@@ -30,6 +30,6 @@
 </div>
   
 ### 📊 *Tech Stack*
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,cpp,fastapi,vue,spring,java,py,mysql,redis,linux,git)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,cpp,git,fastapi,vue,spring,java,py,mysql,redis,linux)](https://skillicons.dev)
 
 ### 🥰 *Take a look at my repositories and let's get in touch!*
