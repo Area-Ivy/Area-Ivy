@@ -24,6 +24,12 @@
 
 ### 📊 *My GitHub*
 
+<picture decoding="async" loading="lazy">
+  <source media="(prefers-color-scheme: light)" srcset="https://pixel-profile.vercel.app/api/github-stats?username=<Area-Ivy>&theme=summer">
+  <source media="(prefers-color-scheme: dark)" srcset="https://pixel-profile.vercel.app/api/github-stats?username=<Area-Ivy>&screen_effect=true&theme=blue_chill">
+  <img alt="github stats" src="https://pixel-profile.vercel.app/api/github-stats?username=<Area-Ivy>&theme=summer">
+</picture>
+
 <div align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=Area-Ivy&show_icons=true&count_private=true" height="160"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Area-Ivy&layout=compact" height="160"/>
