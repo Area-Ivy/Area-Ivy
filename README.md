@@ -27,7 +27,7 @@
 <div align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=Area-Ivy&show_icons=true&count_private=true" height="160"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Area-Ivy&layout=compact" height="160"/>
-  https://pixel-profile.vercel.app/api/github-stats?username=<Area-Ivy>&theme=fuji&pixelate_avatar=false
+  <img src="https://pixel-profile.vercel.app/api/github-stats?username=<Area-Ivy>&theme=fuji&pixelate_avatar=false" height="160"/>
 </div>
 
 
