@@ -28,7 +28,7 @@
   <img src="https://github-readme-stats.vercel.app/api?username=Area-Ivy&show_icons=true&count_private=true" height="160"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Area-Ivy&layout=compact" height="160"/>
 </div>
-
+https://pixel-profile.vercel.app/api/github-stats?username=<Area-Ivy>&theme=fuji&pixelate_avatar=false
 ### 📊 *Tech Stack*
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,vue,fastapi,spring,java,cpp,py,mysql,redis,linux,git)](https://skillicons.dev)
 
