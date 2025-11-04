@@ -1,14 +1,12 @@
 <h1>
   <img src="https://emojis.slackmojis.com/emojis/images/1660853767/60881/meow_attention.gif?1660853767" height="30"/>
-  Hi there my No.
-  <img src="https://profile-counter.glitch.me/Area-Ivy/count.svg" height="30"/>
-  visitor!
+  Hi there my visitor!
 </h1>
 
 > [!TIP]
-> ⏳ Year Progress [ ▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▁▁▁▁▁ ] 83.85 %
+> ⏳ Year Progress [ ▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▁▁▁▁▁ ] 84.12 %
 >
-> ⏰ Updated on Mon, 03 Nov 2025 01:08:12 GMT
+> ⏰ Updated on Tue, 04 Nov 2025 01:05:10 GMT
 
 ### 👨‍💻 *About Me*
 
