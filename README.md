@@ -31,3 +31,6 @@
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,vue,fastapi,spring,java,cpp,py,mysql,redis,linux,git)](https://skillicons.dev)
 
 ### 🥰 *Take a look at my repositories and let's get in touch!*
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=150&section=footer&text=Thanks%20for%20visiting!&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=75"/>
+</div>
