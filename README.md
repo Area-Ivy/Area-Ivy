@@ -8,6 +8,8 @@
 >
 > ⏰ Updated on Wed, 25 Feb 2026 01:29:06 GMT
 
+https://pixel-profile.vercel.app/api/github-stats?username=<username>&theme=fuji&pixelate_avatar=false
+
 ### 👨‍💻 *About Me*
 
 * 🚀 I'm an undergraduate student of School of Software Engineering, [Tongji University](https://www.tongji.edu.cn).
