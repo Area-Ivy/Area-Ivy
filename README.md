@@ -10,15 +10,15 @@
 
 ### 👨‍💻 *About Me*
 
-* 🚀 I'm an undergraduate student of School of Software Engineering, [Tongji University](https://www.tongji.edu.cn).
+* 🚀 An undergraduate student of School of Software Engineering, [Tongji University](https://www.tongji.edu.cn).
   
-* 🌱 Currently exploring full-stack development, algorithms, and open-source contributions.
+* 🌱 Currently exploring full-stack development, algorithms, and Muti-Agent System.
   
 * 🔭 Always eager to learn new technologies and take on challenging projects.
   
 * 📫 Email: chenyiming12500@gmail.com
   
-* 💡 OnlyFans: not yet available
+* 💡 Blog: http://area-ivy.cn
 
 ### 📊 *My GitHub*
 
