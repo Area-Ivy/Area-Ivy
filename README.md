@@ -4,13 +4,13 @@
 </h1>
 
 
-### 📊 *My GitHub*
+### *My GitHub*
 
 <picture decoding="async" loading="lazy">
   <img alt="github stats" src="https://pixel-profile.vercel.app/api/github-stats?username=Area-Ivy&screen_effect=false&theme=fuji&hide=avatar&dithering=true">
 </picture>
 
-### 📊 *Tech Stack*
+### *Tech Stack*
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,vue,fastapi,spring,java,cpp,py,mysql,redis,linux,git)](https://skillicons.dev)
 
 ### 🥰 *Take a look at my repositories and let's get in touch!*
