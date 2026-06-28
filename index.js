@@ -45,5 +45,6 @@ const readme = `\
 
 ### 🥰 *Take a look at my repositories and let's get in touch!*\
 `
+<a href="https://githubroast.dev/u/Area-Ivy"><img src="https://githubroast.dev/api/card/Area-Ivy" alt="GitHub Roast" width="600" /></a>
 
 console.log(readme)
